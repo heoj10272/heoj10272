@@ -15,7 +15,7 @@
 
 ### Tech Stack
 
-- This is main
+- 📒 This is main
 <p display="inline-block">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white">
@@ -25,7 +25,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
 
-- This is sub
+- 📔 This is sub
 <p display="inline-block">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=C++&logoColor=white"> 
