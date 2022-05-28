@@ -8,7 +8,7 @@
   
 ### Who Am I
 
-- 🥇 I'm majoring in Computer Engineering
+- ✏ I'm majoring in Computer Engineering
 - 🚅 My hometown is Ulsan, Gyeongsangnam-do in Korea
 
 <hr/>
