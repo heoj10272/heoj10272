@@ -39,5 +39,7 @@
 - 📌 PAPER AND PENCIL - LG Uplus Intern (2018.06 ~ 2018.08)
 - 📌 PAPER AND PENCIL - LX Pantos Intern (2022.03 ~ 2018.05)
 
+<hr/>
+
 <a href="https://solved.ac/profile/dlwltkd2003"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=heoj10272"></a>
 <hr/>
