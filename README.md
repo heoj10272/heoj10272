@@ -1,6 +1,6 @@
 # 👋 Hello!
 <p display="inline-block">
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheoj10272&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/heoj10272)
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https%3A%2F%2Fgithub.com%2Fheoj10272&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/heoj10272)
     
     <a href="[https://heoj10272.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.instagram.com/huh._.zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
