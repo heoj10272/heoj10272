@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=GitHub&logoColor=white)](https://heoj10272.github.io/)
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heoj10272">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
   
 ### Who Am I
 
@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=squaree&logo=Google Cloud&logoColor=white">
 </p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
-
 - 📔 This is sub
 <p display="inline-block">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white">
@@ -33,4 +31,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=square&logo=html5&logoColor=white">
 </p>
+<hr/>
+
+<a href="https://solved.ac/profile/dlwltkd2003"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=heoj10272"></a>
 <hr/>
