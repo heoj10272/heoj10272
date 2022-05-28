@@ -2,9 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheoj10272&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/heoj10272) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/huh._.zz) 
 [![GitHub Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=GitHub&logoColor=white)](https://heoj10272.github.io/)
-
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
   
 ### Who Am I
 
@@ -12,6 +9,8 @@
 - 🚅 My hometown is Ulsan, Gyeongsangnam-do in Korea
 
 <hr/>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
 
 ### Tech Stack
 
