@@ -37,7 +37,7 @@
 
 - 🥼 Studying in Seokyoung University (2017.03 ~ )
 - 📌 PAPER AND PENCIL - LG Uplus Intern (2018.06 ~ 2018.08)
-- 📌 PAPER AND PENCIL - LX Pantos Intern (2022.03 ~ 2018.05)
+- 📌 PAPER AND PENCIL - LX Pantos Intern (2022.03 ~ 2022.05)
 
 <hr/>
 
