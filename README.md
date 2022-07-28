@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/huh._.zz) 
 [![GitHub Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=GitHub&logoColor=white)](https://heoj10272.github.io/)
 <img align='right' src="https://user-images.githubusercontent.com/89104369/181484176-3a4f044d-3050-463f-b4d9-195c9794823a.png">
-
+<br>
 ### Who Am I
 
 - ✏ I'm majoring in Computer Engineering
