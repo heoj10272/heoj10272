@@ -43,8 +43,6 @@
 - ⚔ Samsung - DX Summer S/W Algorithm Empowerment (2022.07.18 ~ )
 - 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e6da221-09db-4388-8d5b-8411f4a8c515" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <hr/>
 
 <a href="https://solved.ac/profile/heoj10272"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=heoj10272"></a>
