@@ -41,6 +41,8 @@
 - ⚔ SKU - Summer Coding Test Special Lecture (2022.07.03 ~ )
 - ⚔ Samsung SDS - Summer Algorithm Special Lecture (2022.07.04 ~ 07.15)
 - ⚔ Samsung - DX Summer S/W Algorithm Empowerment (2022.07.18 ~ )
+- 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
+- ⭐ AWS Certified Solutions Architect - Associate certificate (2022.07.27)
 
 <hr/>
 
