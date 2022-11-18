@@ -45,6 +45,7 @@
 - ⚔ Samsung SDS - Summer Algorithm Special Lecture (2022.07.04 ~ 07.15)
 - ⚔ Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ )
 - 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
+- ⚔ goorm - Kubernetes professional training course (2022.10.11 ~ )
 
 <hr/>
 
