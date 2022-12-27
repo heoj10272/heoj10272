@@ -19,11 +19,11 @@
 - 📒 This is main
 <p display="inline-block">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white"><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=squaree&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=squaree&logo=Google Cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=squaree&logo=Google Cloud&logoColor=white"><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=C++&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=square&logo=Ansible&Color=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring Boot&Color=white">
 </p>
