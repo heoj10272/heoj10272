@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=squaree&logo=Google Cloud&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=C++&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=square&logo=Ansible&Color=white">
 </p>
 
 - 📔 This is sub
