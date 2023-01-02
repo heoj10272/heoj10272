@@ -47,7 +47,7 @@
 - ⚔ Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ )
 - 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
 - ⚔ goorm - Kubernetes professional training course (2022.10.11 ~ 12.30)
-- 📌 SK M&Service - Intern (2023.01 ~ ) 
+- 📌 SK m&service - Intern (2023.01 ~ ) 
 
 <hr/>
 
