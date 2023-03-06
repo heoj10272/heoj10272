@@ -39,15 +39,16 @@
 
 ### Experiences
 
-- 🏛 Studying in Seokyoung University (2017.03 ~ )
-- 📌 PAPER AND PENCIL - LG Uplus Intern (2018.06 ~ 08)
-- 📌 PAPER AND PENCIL - LX Pantos Intern (2022.03 ~ 05)
-- ⚔ SKU - Summer Coding Test Special Lecture (2022.07.03 ~ 07.30)
-- ⚔ Samsung SDS - Summer Algorithm Special Lecture (2022.07.04 ~ 07.15)
-- ⚔ Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ )
+- 🏛 Studied in Seokyoung University (2017.03 ~ 2023.02.16)
+- 🐣 PAPER AND PENCIL - LG Uplus Intern (2018.06 ~ 08)
+- 🐣 PAPER AND PENCIL - LX Pantos Intern (2022.03 ~ 05)
+- 🥚 SKU - Summer Coding Test Special Lecture (2022.07.03 ~ 07.30)
+- 🥚 Samsung SDS - Summer Algorithm Special Lecture (2022.07.04 ~ 07.15)
+- 🥚 Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ )
 - 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
-- ⚔ goorm - Kubernetes professional training course (2022.10.11 ~ 12.30)
-- 📌 SK m&service - Intern (2023.01 ~ ) 
+- 🥚 goorm - Kubernetes professional training course (2022.10.11 ~ 12.30)
+- 🐣 SK m&service - Intern (2023.01.02 ~ 2023.02.28) 
+- 🐤 SK m&service - Employee (2023.01.02 ~ 2023.02.28) 
 
 <hr/>
 
