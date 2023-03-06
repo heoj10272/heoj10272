@@ -41,7 +41,7 @@
 - 🏛 Studied in Seokyoung University (2017.03 ~ 2023.02.16)
 - 🥚 SKU - Summer Coding Test Special Lecture (2022.07.03 ~ 07.30)
 - 🥚 Samsung SDS - Summer Algorithm Special Lecture (2022.07.04 ~ 07.15)
-- 🥚 Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ )
+- 🥚 Samsung - DX Part Summer S/W Algorithm Empowerment (2022.07.18 ~ 08.19)
 - 🥚 goorm - Kubernetes professional training course (2022.10.11 ~ 12.30)
 
 ### Awarded and Certified
