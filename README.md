@@ -48,6 +48,7 @@
 
 - 🌟 AWS Certified Solutions Architect - Associate certificate (2022.07.27)
 - ✨ SKU Programming Contest (2022.12.05)
+- 🌟 SQL Developer - (2023.04.14)
 
 ### Experiences
 
