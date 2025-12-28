@@ -60,5 +60,3 @@
 
 <a href="https://solved.ac/profile/heoj10272"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=heoj10272"></a>
 <hr/>
-
-![snake svg](https://github.com/heoj10272/heoj10272/blob/output/github-contribution-grid-snake.svg)
