@@ -11,8 +11,6 @@
 
 <hr/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=heoj10272" height="200">
-
 ### Tech Stack
 
 - 📒 This is main
